@@ -27,4 +27,4 @@ This project analyzes customer shopping behavior using Power BI, focusing on sal
 - Data Visualization & Storytelling
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](Screenshot 2026-02-01 223733.png)
